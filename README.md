@@ -33,11 +33,12 @@ Ensure you have the following installed:
 
 ###  Running the Chatbot
 1. Clone this repository:
-   ```bash(install all libraries )
-   
+   ```bash
+   pip install (all libraries )
+    ```
 2. Run the Streamlit app:(dont'n forgot to add you appikey)
    ```bash
-   streamlit run bot.py
+   streamlit run solarbot.py
    ```
 3. The chatbot UI will open in your browser.
 
